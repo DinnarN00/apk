@@ -43,7 +43,7 @@ class Profile extends StatelessWidget {
           const CircleAvatar(
               radius: 50, backgroundImage: AssetImage('images/vi.png')),
           const Text(
-            'Kelompok 6',
+            'Dinnar nurhuda hermawan 065119213',
             style: TextStyle(
                 fontFamily: "FontPoppins",
                 fontSize: 30,
